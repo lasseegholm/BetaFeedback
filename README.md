@@ -24,7 +24,7 @@ You can report your feedback or ask for support by creating an issue:
 
 __TweakStyle is in an early stage__. REALLY
 
-Some features are not yet implemented, others need to be improved. Don't expect something completely ready for end user. The purpose of this Beta is both to let you feel the spirit of TweakStyle and get your opinion.<br>
+Some features are not yet implemented, others need to be improved. Don't expect something completely ready for end user. The purposes of this Beta are to let you feel the spirit of TweakStyle and to get your opinion.<br>
 Your feedback is important and will help us to prioritise and orientate the development.
 
 - What do you find the most cool, valuable?
