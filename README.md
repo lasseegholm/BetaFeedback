@@ -16,7 +16,8 @@ You can report your feedback or ask for support by creating an issue:
 - Go to [Issues tab](https://github.com/TweakStyle/BetaFeedback/issues)
 - Check your questions or feedback have not already been raised by another tester
 - Comment on existing issue or create a new one (by clicking the green button at the top)
-- Please precise your OS and version of TweakStyle you're using
+- You will need to create a github account (free)
+- Please precise your OS and version of TweakStyle
 
 <br>
 ### What to expect
