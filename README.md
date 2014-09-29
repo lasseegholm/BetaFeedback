@@ -37,4 +37,4 @@ Your feedback is important and will help us to prioritise and orientate the deve
 
 You can check the [wiki](https://github.com/TweakStyle/BetaFeedback/wiki)<br>
 For now the documentation is very poor. We'll try to improve it as soon as we'll find the time to.<br>
-Feel free to complete or improve it
+Feel free to complete it or improve it
