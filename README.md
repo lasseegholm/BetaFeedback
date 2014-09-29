@@ -1,11 +1,14 @@
 TweakStyle Beta feedback center
 ============
 
-### Notes
-- This github project is for feedback purpose only. It does not contains any source, download, roadmap or communication material.
-- If you want to know more about TweakStyle, please check [our website](https://tweakstyle.com), [our blog](http://blog.tweakstyle.com) or our [twitter feed](https://twitter.com/TweakStyle)
-- If you're interested in testing TweakStyle, you can apply for a Beta invite from [the website](https://tweakstyle.com)
+-----------------------
 
+### Notes
+This github project is for feedback purpose only. It does not contains any source, download, roadmap or communication material.<br>
+If you want to know more about TweakStyle, please check [our website](https://tweakstyle.com), [our blog](http://blog.tweakstyle.com) or our [twitter feed](https://twitter.com/TweakStyle)<br>
+If you're interested in testing TweakStyle, you can apply for a Beta invite from [the website](https://tweakstyle.com)
+
+-----------------------
 
 ### Feedback
 
