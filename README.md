@@ -9,7 +9,7 @@ If you're interested in testing TweakStyle, you can apply for a Beta invite from
 
 <br>
 
-### Feedback
+### Raising Feedback
 
 You can report your feedback or ask for support by creating an issue:
 
